@@ -52,11 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0115-distinct-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [1872-stone-game-viii](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/1872-stone-game-viii) |
+| [0115-distinct-subsequences](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0115-distinct-subsequences) |
 ## Manacher
 |  |
 | ------- |
