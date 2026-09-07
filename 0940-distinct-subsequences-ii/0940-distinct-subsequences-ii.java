@@ -1,31 +1,30 @@
 class Solution {
     public int distinctSubseqII(String s) {
-        long MOD = 1000000007;
-        
-        // dp[c] = number of distinct subsequences
-        // whose last character is c
-        long[] dp = new long[26];
+        final long MOD = 1_000_000_007L;
+
+        long total = 0;
+        long[] last = new long[26];
 
         for (char ch : s.toCharArray()) {
             int c = ch - 'a';
 
-            long total = 1; // empty subsequence
+            long add = total + 1;
 
-            // All existing subsequences + current character
-            for (int i = 0; i < 26; i++) {
-                total = (total + dp[i]) % MOD;
+            if (add >= MOD) {
+                add -= MOD;
             }
 
-            // Current character gets all these subsequences
-            dp[c] = total;
+            total += add - last[c];
+
+            if (total < 0) {
+                total += MOD;
+            } else if (total >= MOD) {
+                total -= MOD;
+            }
+
+            last[c] = add;
         }
 
-        long ans = 0;
-
-        for (long x : dp) {
-            ans = (ans + x) % MOD;
-        }
-
-        return (int) ans;
+        return (int) total;
     }
 }
