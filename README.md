@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [1872-stone-game-viii](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/1872-stone-game-viii) |
+| [3870-count-commas-in-range](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3870-count-commas-in-range) |
 ## Greedy
 |  |
 | ------- |
