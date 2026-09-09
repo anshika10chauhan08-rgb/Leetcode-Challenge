@@ -71,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/1872-stone-game-viii) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
