@@ -78,4 +78,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/1148-article-views-i) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
