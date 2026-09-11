@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/2029-stone-game-ix) |
 | [0136-single-number](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0136-single-number) |
 | [1872-stone-game-viii](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/1872-stone-game-viii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -90,4 +91,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Hash Table
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
