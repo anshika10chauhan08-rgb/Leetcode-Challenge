@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0136-single-number) |
 | [1872-stone-game-viii](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/1872-stone-game-viii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/1872-stone-game-viii) |
 | [0115-distinct-subsequences](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Manacher
 |  |
 | ------- |
@@ -103,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
