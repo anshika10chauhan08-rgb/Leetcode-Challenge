@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [0835-image-overlap](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0835-image-overlap) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Recursion
 |  |
 | ------- |
