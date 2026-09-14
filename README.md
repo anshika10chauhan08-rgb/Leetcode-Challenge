@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/1872-stone-game-viii) |
 | [3870-count-commas-in-range](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3871-count-commas-in-range-ii) |
+| [0836-rectangle-overlap](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0836-rectangle-overlap) |
 ## Greedy
 |  |
 | ------- |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
