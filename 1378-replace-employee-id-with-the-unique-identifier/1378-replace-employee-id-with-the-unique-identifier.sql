@@ -1,6 +1,4 @@
-SELECT
-    (SELECT unique_id
-     FROM EmployeeUNI
-     WHERE EmployeeUNI.id = Employees.id) AS unique_id,
-    name
-FROM Employees;
+SELECT eu.unique_id, e.name
+FROM Employees e
+LEFT JOIN EmployeeUNI eu
+ON e.id = eu.id;
