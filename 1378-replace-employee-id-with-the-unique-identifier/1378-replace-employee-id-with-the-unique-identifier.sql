@@ -1,4 +1,6 @@
-SELECT EmployeeUNI.unique_id, Employees.name
-FROM Employees
-LEFT JOIN EmployeeUNI
-ON Employees.id = EmployeeUNI.id;
+SELECT
+    (SELECT unique_id
+     FROM EmployeeUNI
+     WHERE EmployeeUNI.id = Employees.id) AS unique_id,
+    name
+FROM Employees;
