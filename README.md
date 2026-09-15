@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/2029-stone-game-ix) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Minimax
 |  |
 | ------- |
@@ -55,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0005-longest-palindromic-substring) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0940-distinct-subsequences-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Manacher
 |  |
 | ------- |
