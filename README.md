@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/1068-product-sales-analysis-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/1683-invalid-tweets) |
+| [0197-rising-temperature](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0197-rising-temperature) |
 ## Tree
 |  |
 | ------- |
