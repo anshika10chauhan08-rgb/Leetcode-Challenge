@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [0835-image-overlap](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0835-image-overlap) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3718-smallest-missing-multiple-of-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0940-distinct-subsequences-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Manacher
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3718-smallest-missing-multiple-of-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -136,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0836-rectangle-overlap) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
