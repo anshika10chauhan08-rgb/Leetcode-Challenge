@@ -7,23 +7,23 @@ class Solution {
 
         boolean[] isPrime = new boolean[n];
 
-        for (int i = 2; i < n; i++) {
+        int count = 1; // 2 is prime
+
+        for (int i = 3; i < n; i += 2) {
             isPrime[i] = true;
         }
 
-        for (int i = 2; i * i < n; i++) {
+        for (int i = 3; i * i < n; i += 2) {
 
             if (isPrime[i]) {
 
-                for (int j = i * i; j < n; j += i) {
+                for (int j = i * i; j < n; j += 2 * i) {
                     isPrime[j] = false;
                 }
             }
         }
 
-        int count = 0;
-
-        for (int i = 2; i < n; i++) {
+        for (int i = 3; i < n; i += 2) {
 
             if (isPrime[i]) {
                 count++;
