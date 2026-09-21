@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0940-distinct-subsequences-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Recursion
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Number Theory
 |  |
 | ------- |
