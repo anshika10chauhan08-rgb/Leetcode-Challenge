@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/1661-average-time-of-process-per-machine) |
 | [0577-employee-bonus](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0577-employee-bonus) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0620-not-boring-movies](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0620-not-boring-movies) |
 ## Tree
 |  |
 | ------- |
