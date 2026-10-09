@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0577-employee-bonus) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0620-not-boring-movies](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0620-not-boring-movies) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Tree
 |  |
 | ------- |
