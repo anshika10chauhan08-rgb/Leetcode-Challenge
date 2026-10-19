@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [0204-count-primes](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0204-count-primes) |
 | [0088-merge-sorted-array](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0088-merge-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -139,11 +140,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [0088-merge-sorted-array](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/0088-merge-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anshika10chauhan08-rgb/21-Days-Leetcode-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
